@@ -2,12 +2,12 @@
   <a href="https://github.com/shervinbdndev/TodoApplication">
     <img src="https://github.com/shervinbdndev/TodoApplication/blob/master/src/images/logo.png" alt="Logo" width="235">
   </a>
-  <h1 align='center' style="font-size:5rem"><b>Chat App</b></h1>
+  <h1 align='center' style="font-size:5rem"><b>Todo Application</b></h1>
 
 Operating System  |  Version  |  Download
 ------------- | ------------- | -------------
-Windows 11  | Latest 2.1.4 | [64Bit](https://codeload.github.com/shervinbdndev/TodoApplication/zip/refs/heads/64-bit)
-Windows 10  | Latest 2.1.4 | [64Bit](https://codeload.github.com/shervinbdndev/TodoApplication/zip/refs/heads/64-bit) , [32Bit](https://codeload.github.com/shervinbdndev/TodoApplication/zip/refs/heads/32-bit)
+Windows 11  | Latest 2.3.2 | [64Bit](https://codeload.github.com/shervinbdndev/TodoApplication/zip/refs/heads/64-bit)
+Windows 10  | Latest 2.3.2 | [64Bit](https://codeload.github.com/shervinbdndev/TodoApplication/zip/refs/heads/64-bit) , [32Bit](https://codeload.github.com/shervinbdndev/TodoApplication/zip/refs/heads/32-bit)
 
 </div>
 <br><br><br>
@@ -30,8 +30,7 @@ Windows 10  | Latest 2.1.4 | [64Bit](https://codeload.github.com/shervinbdndev/T
 
 <h1 align='center'><b>Precendences</b></h1>
 
-- [x] Able To Run Server
-- [x] Able To Chat With Everyone
+- [x] Able To Add Todos
 - [x] Able To Switch Between Languages (Persian & English)
 - [x] Theme Synchronization
 
